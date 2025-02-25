@@ -6,7 +6,6 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 *Software Engineering is the art and science of designing, building and maintaning software solutions that solve real-world problems. The importance of software engineering is crucial because software is the backbone of the modern world. Without it, our favorite apps, secure banking systems and even online learning platforms wouldn't exist.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 * (1)The Birth of Software Engineering (1968):
 The term "software engineering" was first introduced at the 1968 NATO Software Engineering Conference. This milestone marked the recognition of software development as an engineering discipline due to the "software crisis" — a period where projects were plagued by cost overruns, missed deadlines, and low-quality software. This conference led to the establishment of structured programming practices and the need for formal methodologies in software development.
